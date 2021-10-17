@@ -1,0 +1,19 @@
+{
+  "name": "@stanislavsus-edu/library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanislavsus-edu/library.git"
+  },
+  "author": "Stanislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanislavsus-edu/library/issues"
+  },
+  "homepage": "https://github.com/Stanislavsus-edu/library#readme"
+}
